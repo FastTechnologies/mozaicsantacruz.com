@@ -1,0 +1,334 @@
+{
+  "project_info": {
+    "project_number": "193776460837",
+    "project_id": "cafescale-5",
+    "storage_bucket": "cafescale-5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193776460837:android:3f70b90efd78ae9e654bcc",
+        "android_client_info": {
+          "package_name": "com.AlohaChickenShrimp.fasttech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193776460837-ed48403fs57kdmnmo2otntimgovni3uh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArW8DWq7gwmHpwFVTTDPp_SFUIydXg2RA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193776460837-ed48403fs57kdmnmo2otntimgovni3uh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "193776460837-0embo8ovv8hm5i2k40tq3u4dn59k8pfq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.FreshMozzarellaPizza.fasttech"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193776460837:android:1679196577d767bc654bcc",
+        "android_client_info": {
+          "package_name": "com.AriannasItalian.fasttech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193776460837-ed48403fs57kdmnmo2otntimgovni3uh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArW8DWq7gwmHpwFVTTDPp_SFUIydXg2RA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193776460837-ed48403fs57kdmnmo2otntimgovni3uh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "193776460837-0embo8ovv8hm5i2k40tq3u4dn59k8pfq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.FreshMozzarellaPizza.fasttech"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193776460837:android:273fa50c4271f4b8654bcc",
+        "android_client_info": {
+          "package_name": "com.DemeKitchen.fasttech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193776460837-ed48403fs57kdmnmo2otntimgovni3uh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArW8DWq7gwmHpwFVTTDPp_SFUIydXg2RA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193776460837-ed48403fs57kdmnmo2otntimgovni3uh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "193776460837-0embo8ovv8hm5i2k40tq3u4dn59k8pfq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.FreshMozzarellaPizza.fasttech"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193776460837:android:2b4599b428445ef6654bcc",
+        "android_client_info": {
+          "package_name": "com.FreshMozzarellaPizza.fasttech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193776460837-ed48403fs57kdmnmo2otntimgovni3uh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArW8DWq7gwmHpwFVTTDPp_SFUIydXg2RA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193776460837-ed48403fs57kdmnmo2otntimgovni3uh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "193776460837-0embo8ovv8hm5i2k40tq3u4dn59k8pfq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.FreshMozzarellaPizza.fasttech"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193776460837:android:3353d2110451fbc1654bcc",
+        "android_client_info": {
+          "package_name": "com.LosJalaPenos.fasttech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193776460837-ed48403fs57kdmnmo2otntimgovni3uh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArW8DWq7gwmHpwFVTTDPp_SFUIydXg2RA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193776460837-ed48403fs57kdmnmo2otntimgovni3uh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "193776460837-0embo8ovv8hm5i2k40tq3u4dn59k8pfq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.FreshMozzarellaPizza.fasttech"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193776460837:android:dcd30c9cdb3c3e3a654bcc",
+        "android_client_info": {
+          "package_name": "com.MozaicSantacruz.fasttech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193776460837-ed48403fs57kdmnmo2otntimgovni3uh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArW8DWq7gwmHpwFVTTDPp_SFUIydXg2RA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193776460837-ed48403fs57kdmnmo2otntimgovni3uh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "193776460837-0embo8ovv8hm5i2k40tq3u4dn59k8pfq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.FreshMozzarellaPizza.fasttech"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193776460837:android:e827f1421a2bb722654bcc",
+        "android_client_info": {
+          "package_name": "com.RoadRunnersPizza.fasttech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193776460837-ed48403fs57kdmnmo2otntimgovni3uh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArW8DWq7gwmHpwFVTTDPp_SFUIydXg2RA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193776460837-ed48403fs57kdmnmo2otntimgovni3uh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "193776460837-0embo8ovv8hm5i2k40tq3u4dn59k8pfq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.FreshMozzarellaPizza.fasttech"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193776460837:android:79c9d449b13c1c24654bcc",
+        "android_client_info": {
+          "package_name": "com.TheTavernBar.fasttech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193776460837-ed48403fs57kdmnmo2otntimgovni3uh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArW8DWq7gwmHpwFVTTDPp_SFUIydXg2RA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193776460837-ed48403fs57kdmnmo2otntimgovni3uh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "193776460837-0embo8ovv8hm5i2k40tq3u4dn59k8pfq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.FreshMozzarellaPizza.fasttech"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193776460837:android:702ff92a859a39de654bcc",
+        "android_client_info": {
+          "package_name": "com.VillagePizza.fasttech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193776460837-ed48403fs57kdmnmo2otntimgovni3uh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArW8DWq7gwmHpwFVTTDPp_SFUIydXg2RA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193776460837-ed48403fs57kdmnmo2otntimgovni3uh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "193776460837-0embo8ovv8hm5i2k40tq3u4dn59k8pfq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.FreshMozzarellaPizza.fasttech"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
